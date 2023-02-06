@@ -1,0 +1,2 @@
+# gost
+go server task
